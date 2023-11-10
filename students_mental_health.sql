@@ -5,7 +5,7 @@
 select count(*) as total_records
 from students;
 
--- Выводим первые 5 зяписей
+-- Выводим первые 5 записей
 select *
 from students
 limit 5;
